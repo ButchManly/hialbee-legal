@@ -1,0 +1,4 @@
+# Forces GitHub Pages to publish from the main branch
+source:
+  branch: main
+  path: /
