@@ -50,12 +50,12 @@
 <p>Questions about these Terms can be directed to:<br>
 Hi Albee LLC<br>
 Los Angeles, CA 90019 USA<br>
-📧 support@hialbee.com</p>
+📧 hi.albee.app@gmail.com</p>
 
 </body>
 </html>
 
-📧 support@hialbee.com</p>
+📧 hi.albee.app@gmail.com</p>
 
 </body>
 </html>
